@@ -22,7 +22,7 @@ A GUI save file editor for **Yamizome Revenger** (ESCUDE engine). Edit character
 
 ### Option 1: Standalone Executable (no Python needed)
 
-Download `Yamizome Save Editor.exe` from the [Releases](https://github.com/chocovanis/Yamizome-Revenger-Save-Editor/releases) page. Just run it — no installation required.
+A pre-built `.exe` is available on the Releases page of this repository — no installation required.
 
 ### Option 2: Run from Source
 
