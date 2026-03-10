@@ -5,6 +5,7 @@ __pycache__/
 
 # PyInstaller build artifacts
 build/
+dist/
 *.spec
 
 # IDE
